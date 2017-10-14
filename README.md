@@ -8,7 +8,7 @@ check your nodejs version
 
 How to run ?
 ------
-- `git clone https://github.com/alfathdirk/LineAlphatJS.git`
+- `git clone https://github.com/treerachai/LineAlphatJS.git`
 - `cd LineAlphatJS && npm install`
 - `npm start`
 
@@ -19,6 +19,3 @@ Still work :construction_worker:
 - Implement All 
 - Improve logic
 
-Author
-------
-[@alfathdirk](https://instagram.com/alfathdirk)
