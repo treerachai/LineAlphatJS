@@ -54,7 +54,7 @@ class LineAPI {
   _qrCodeLogin() {
     this.setTHttpClient();
     return new Promise((resolve, reject) => {
-    this._client.getAuthQrcode(true, 'Mebot-PC',(err, result) => {
+    this._client.getAuthQrcode(true, 'LineAlphatJS',(err, result) => {
       // console.log('here')
       const qrcodeUrl = `line://au/q/${result.verifier}`;
       qrcode.generate(qrcodeUrl,{small: true});
