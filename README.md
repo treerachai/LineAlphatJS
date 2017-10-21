@@ -11,9 +11,6 @@ How to run ?
 - `git clone https://github.com/treerachai/LineAlphatJS.git`
 - `cd LineAlphatJS && npm install`
 - `npm start`
-
-
-Still work :construction_worker:
 ----
 **TODO** features
 - Implement All 
